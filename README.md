@@ -1,7 +1,7 @@
-# Concordancia clínico-patológica en 1056 casos de biopsias cutáneas. Experiencia en un centro terciario
+# Concordancia clínico-patológica en 1043 casos de biopsias cutáneas. Experiencia en un centro terciario
 
 **Tabla S1. Características basales de los pacientes**
-|**Característica**                            |**No**, N = 278 |**Si**, N = 765 |**p-value** |**Overall**, N = 1,043 |
+|**Característica**                            |**No**,N = 278  |**Si**, N = 765 |**p-value** |**Overall**, N = 1,043 |
 |:---------------------------------------------|:---------------|:---------------|:-----------|:----------------------|
 |**Tipo**                                      |                |                |            |                       |
 |Dermatosis inflamatorias                      |8 (2.9%)        |23 (3.0%)       |            |31 (3.0%)              |
